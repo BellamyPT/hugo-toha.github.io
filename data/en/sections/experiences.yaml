@@ -1,64 +1,83 @@
 # section information
 section:
-  name: Experiences
+  name: Experience
   id: experiences
   enable: true
   weight: 3
   showOnNavbar: true
-  # Can optionally hide the title in sections
-  # hideTitle: true 
+  hideTitle: false 
 
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: Feedzai
+    url: "https://feedzai.com/"
+    #location: Lisbon, Portugal
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Feedzai is the market leader in fighting financial crime with AI. It is the most advanced risk management platform powered by big data and machine learning. 
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
+  - designation: Operations Analyst
+    start: Jul 2021
     # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
-
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Data Extraction and exploration from primary and secondary sources relevant to the operational department.
+    - Performing analysis to assess quality and meaning of data while improving data extraction processess.
+    - Preparing reports and presentations for management based on the insights generated.
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: DefinedCrowd
+    url: "https://www.definedcrowd.com/"
+    #location: Lisbon, Portugal
+    overview: DefinedCrowd is a provider of high-quality training data and an overarching infrastructure of solutions for artificial intelligence.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Solutions Developer
+    start: Fev 2020
+    end: Jul 2021
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Design, implement and monitor data collection workflows for NLP, Speech and Image based on client's requirement.
+    - Create automation tools for improving processes on the Operations Department.
+    - Create reports and analysis for the different projects.
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    name: EDP Produção
+    url: "https://www.edp.pt/grupo-edp/"
+    #location: Lisbon, Portugal
+    overview: EDP engages in the generation, transportation, distribution, and supply of electricity in Portugal and internationally.
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Data Analyst
+    start: Fev 2018
+    end: Fev 2020
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Data Extraction and exploration.
+    - Implementation of ETL processess.
+    - Reporting and Analytics for the different business units.
+    - Maintenance of the real-time framework collecting the data from the generation assets.
+
+- company:
+    name: GE Grid Solutions
+    url: "https://www.gegridsolutions.com/"
+    #location: Lisbon, Portugal
+    overview: GE is a world energy leader providing equipment, solutions and services across the energy value chain from generation to consumption. 
+  positions:
+  - designation: Project Manager
+    start: Nov 2014
+    end: Jan 2018
+    responsibilities:
+    - Responsible in overseeing the implementation of Protection & Control systems in high voltage electrical substations.
+    - Project Planning, monitoring and financial supervision while interfacing with customers and suppliers.
+    - Time and cost estimation and optimization.
+
+- company:
+    name: PT SI
+    url: "https://www.telecom.pt/pt-pt"
+    #location: Lisbon, Portugal
+    overview: Portugal Telecom (now Altice Portugal) is one the largest telecommunications service provider in Portugal.
+  positions:
+  - designation: Database Administrator
+    start: Out 2013
+    end: Out 2014
+    responsibilities:
+    - Database query optimization.
+    - Installation and upgrade of RDBMS and its services.
+    - Monitoring database performance and potential security breaches.
+    - Backup\Restore policies implementation and execution.
