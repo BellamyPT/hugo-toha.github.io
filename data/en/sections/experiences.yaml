@@ -21,7 +21,7 @@ experiences:
     # end: Dec 2020
     responsibilities:
     - Data Extraction and exploration from primary and secondary sources relevant to the operational department.
-    - Performing analysis to assess quality and meaning of data while improving data extraction processess.
+    - Performing analysis to assess quality and meaning of data while improving data extraction processes.
     - Preparing reports and presentations for management based on the insights generated.
 
 - company:
@@ -52,6 +52,7 @@ experiences:
     - Implementation of ETL processess.
     - Reporting and Analytics for the different business units.
     - Maintenance of the real-time framework collecting the data from the generation assets.
+    - Speaker at [Osisoft PI World Gothenburg 2019](https://resources.osisoft.com/presentations/edp--providing-power-generation-fleet-wide-real-time-awareness-and-key-decision-support-via-pi-af/)  
 
 - company:
     name: GE Grid Solutions
